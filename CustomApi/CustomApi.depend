@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1705363167 source:c:\users\adikson\desktop\customapi\main.cpp
+	<iostream>
+	<locale.h>
+	<cmath>
+	<windows.h>
+	<cstring>
+	<iomanip>
+
